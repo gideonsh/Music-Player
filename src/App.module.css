@@ -1,0 +1,10 @@
+.heaer {
+  display: inline-block;
+}
+
+.title {
+  text-align: center;
+  margin-top: 0px;
+  padding-top: 40px;
+  color: blue;
+}
